@@ -2,9 +2,12 @@
 **entgus/entgus** 
 
 
-- **Atualmente na faculdade de Ciência da computação**
-- **Estudando Html/Css/Javascript**
-- **Hobby: Boxe**
+- **Atualmente na faculdade de Ciência da computação**🏫
+- **Estudando Html/Css/Javascript**📔
+- **Hobby: Boxe** 🥊
+
+
+
 
 
 
@@ -21,9 +24,13 @@
 </picture>
 
 <img height=100px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>  <img height=100px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" /> 
-            <img height=80px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+            <img height=80px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">      
+
+<img height=80px src="https://github.com/user-attachments/assets/12f42af9-4e8d-4f6f-9f1b-ae2179c8d615"/>
           
-          
+
+
+
 
  
           
