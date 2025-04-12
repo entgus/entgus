@@ -1,5 +1,3 @@
-## OLÁ🤓, Sou o Gustavo Henry.
-
 
 **entgus/entgus** 
 
